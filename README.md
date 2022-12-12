@@ -1,4 +1,4 @@
-# Fundamentals of Computer Vision
+# Introduction to Computer Vision
 
 - Section 1: Welcome and Introduction
 - Section 2: Camera and Imaging
